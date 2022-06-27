@@ -1,9 +1,3 @@
-# ignore csv
-*.csv
-*.pdf
-*.word
-*.xlsx
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
